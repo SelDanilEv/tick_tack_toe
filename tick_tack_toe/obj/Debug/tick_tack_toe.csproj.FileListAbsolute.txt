@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\bin\Debug\tick_tack_toe.exe.config
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\bin\Debug\tick_tack_toe.exe
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\bin\Debug\tick_tack_toe.pdb
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\obj\Debug\tick_tack_toe.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\obj\Debug\tick_tack_toe.Play.resources
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\obj\Debug\tick_tack_toe.Properties.Resources.resources
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\obj\Debug\tick_tack_toe.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\obj\Debug\tick_tack_toe.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\obj\Debug\tick_tack_toe.exe
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\obj\Debug\tick_tack_toe.pdb
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\obj\Debug\tick_tack_toe.Menu1.resources
+C:\Users\USER\source\repos\tick_tack_toe\tick_tack_toe\obj\Debug\tick_tack_toe.Settings.resources
